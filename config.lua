@@ -5,5 +5,5 @@ Config.BlackoutTime = 20000 -- How long it takes for lights to turn back on, in 
 Config.Cooldown = 20000 -- Cooldown after the lights turn on
 
 --// QB Notification Messages
-Config.AlreadyActiveMessage = "The power has been shut off already!"
-Config.RecentlyHitMessage = "The power has been shut down recently!"
+Config.AlreadyActiveMessage = "A energia já foi derrubada!"
+Config.RecentlyHitMessage = "A energia foi derrubada recentemente!"
